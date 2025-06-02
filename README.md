@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Bismark Awuni
 
-🎓 A third-year Statistics student at KNUST with a passion for data science, machine learning, and impactful research.
+🎓 A Statistics student at KNUST with a passion for data science, machine learning, and impactful research.
 
 💡 I’ve worked on multiple applied data science projects through WorldQuant University, using Python, SQL, MongoDB, and machine learning models for real-world insights.
 
