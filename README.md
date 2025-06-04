@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **statistics, data visualization, student research projects, or anything Python!**
 
-- 📫 How to reach me **[awunibisk@gmail.com](mailto:awunibisk@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bismark-awuni-23b526278) | [Portfolio](https://thelegendarybizman.my.canva.site/green-aesthetic-elegant-creative-portfolio-presentation)**
+- 📫 How to reach me **[awunibisk@gmail.com](mailto:awunibisk@gmail.com) | [LinkedIn](https://www.linkedin.com/in/bismark-awuni-23b526278)**
 
 - 📄 Know about my experiences [http://www.linkedin.com/in/bismark-awuni-23b526278](http://www.linkedin.com/in/bismark-awuni-23b526278)
 
